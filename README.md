@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Oujan Dalili  
+🚀 Full-Stack Developer | Next.js · Node.js · Python · Supabase  
+Founder of [Technozh](https://technozh.ir) – Programming Academy & Cowork Space  
 
-<!--
-**Oujandalili/oujandalili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 Featured Projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🩺 [Ulivox](https://ulivox.com)  
+Progressive Web App for student health tracking and reporting  
+**Tech:** Next.js, Supabase, TailwindCSS, Node.js  
+
+#### 🏗️ [IronWood](https://iwcollective.ca)  
+Architecture & Real Estate platform with modular UI and SEO optimization  
+**Tech:** Next.js, Supabase, TailwindCSS  
+
+---
+
+### 🌐 Connect with me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/oujandalili)  
+- 🌍 [Personal Website](https://oujandalili.ir)  
+- 🧩 [Technozh](https://technozh.ir)  
+
+---
+
+> _Open to remote and freelance collaborations — let’s build something amazing!_
